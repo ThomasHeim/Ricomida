@@ -1,0 +1,151 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+body *{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/*Marca*/
+.marca__ricomida{
+    font-family: 'Lobster', cursive;
+}
+.marca__footer{
+    padding-top: 41px;
+    padding-bottom: 38px;
+    font-size: 3rem;
+}
+/*marca*/
+
+/*Encabezado*/
+header{
+    margin-bottom: 5rem;
+}
+.titulo__encabezado{
+    font-weight: 700;
+    font-size: 3.3rem;
+}
+
+.bajada__encabezado{
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.botones__encabezado{
+    color: #000000;
+}
+/*Encabezado*/
+
+/*Carrusel*/
+.carousel-indicators{
+    bottom: -70px;
+    margin-bottom: 1rem;
+}
+.carousel-indicators li{
+    background-color: #373A3C !important;
+    border-radius: 50%;
+    height: 13pt;
+    width: 13pt;
+}
+/*Carrusel*/
+
+/*Receta*/
+.receta{
+    margin-top: 80px;
+}
+.lista__ingredientes{
+    list-style: none;
+    padding-left: 0;
+}
+
+h3{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+
+.receta li{
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 150%;
+}
+
+.receta ol li{
+    margin-bottom: 2rem;
+    list-style-position: inside
+}
+
+.receta p{
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+.barra__separacion{
+    border: solid #000000 1px;
+}
+/*Receta*/
+
+/*Relacionadas*/
+.barra__relacionadas{
+    width: 100%;
+}
+
+.titulo__relacionadas{
+    font-weight: 700 !important;
+    font-size: 2.5rem;
+}
+
+.card-title{
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+.card-text{
+    font-weight: 400;
+    font-size: 1rem;
+}
+/*Relacionadas*/
+
+/*Newsletter*/
+.newsletter{
+    color: #ffffff;
+    text-align: center;
+    border-radius: 0;
+}
+
+.newsletter__contenido{
+    padding-top: 10%;
+    vertical-align: middle;
+}
+.newsletter{
+    height: 534px;
+}
+
+.display-4{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.lead{
+    font-weight: 400;
+    font-size: 1.8rem;
+}
+.logo__newsletter{
+    font-family: 'Lobster', cursive;
+}
+.boton__newsletter{
+    width: 14rem;
+    margin: 0 auto;
+}
+/*Newsletter*/
+
+/*Footer*/
+footer{
+    text-align: center;
+    color: #ffffff;
+}
+/*Footer*/
+
+
